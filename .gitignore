@@ -1,0 +1,5 @@
+occ_env/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
